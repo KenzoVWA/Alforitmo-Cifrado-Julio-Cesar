@@ -1,0 +1,12 @@
+﻿Build started 28/09/2015 09:03:02 p.m..
+     1>Project "C:\Users\RODRIGO\Desktop\Cory\progra\mate comp\cifrado final\cifrado_julio_cesar\cifrado_julio_cesar\cifrado_julio_cesar.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RODRIGO\Desktop\Cory\progra\mate comp\cifrado final\cifrado_julio_cesar\Debug\cifrado_julio_cesar.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\cifrado_julio_cesar.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\RODRIGO\Desktop\Cory\progra\mate comp\cifrado final\cifrado_julio_cesar\Debug\cifrado_julio_cesar.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         cifrado_julio_cesar.vcxproj -> C:\Users\RODRIGO\Desktop\Cory\progra\mate comp\cifrado final\cifrado_julio_cesar\Debug\cifrado_julio_cesar.exe
+     1>Done Building Project "C:\Users\RODRIGO\Desktop\Cory\progra\mate comp\cifrado final\cifrado_julio_cesar\cifrado_julio_cesar\cifrado_julio_cesar.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.50
